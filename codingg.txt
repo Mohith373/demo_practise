@@ -2,4 +2,6 @@
 2)next git add . or git add filename to stagin area  
 3)commit using any commit message git commit -m "commmiting message"
 4)after commiting do git log to see commit history(within time and date particularly)
-5)
+5)one imp thing to observe
+--------->when ever you change the any simple code or even one alphabet you have to move from begginigng again you have to move files to staging area and again commit once see git log and status
+
