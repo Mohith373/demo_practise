@@ -1,1 +1,5 @@
-hi this is mohith
+1)git init or git init -b main
+2)next git add . or git add filename to stagin area  
+3)commit using any commit message git commit -m "commmiting message"
+4)after commiting do git log to see commit history(within time and date particularly)
+5)
