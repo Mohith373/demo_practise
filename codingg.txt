@@ -28,3 +28,5 @@ ls -a shows all .git including all
 
 
 git remote add origin url of your github repo-->this is used to install remote to our github repository
+
+git remote -v used to check where remote exists ....
