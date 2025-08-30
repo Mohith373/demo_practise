@@ -6,3 +6,5 @@ git remote rm origin removes already existing remote control then we can add new
 
 mostly use only main branch by creating your own
 next see what is git pull and also merge branch of some branch
+
+we can create different branches as you want but mainly focus on main branch only 
