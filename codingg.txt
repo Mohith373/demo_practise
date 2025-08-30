@@ -7,4 +7,5 @@
 6)git diff command will displays the changes made by the file after adding new data only when before in stagin area that is not staged 
 7)git diff works only when not in staging area i.e changing code and not do to staging area 
 8)git diff --staged used to 
-9)removing git file
+9)removing git file--> when you try to delte a file in this working directory you can delete but it cant removed  from your git when you check status it shows as deleted so use command only to remove or delte files in your project 
+it means first untrack your file using git rm --cached filename and then you willl be able to delte directly from files in projrxt or folder 
