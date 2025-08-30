@@ -9,3 +9,5 @@
 8)git diff --staged used to 
 9)removing git file--> when you try to delte a file in this working directory you can delete but it cant removed  from your git when you check status it shows as deleted so use command only to remove or delte files in your project 
 it means first untrack your file using git rm --cached filename and then you willl be able to delte directly from files in projrxt or folder 
+cloning a folder or project from github-->
+git clone <paste the url of that project>
