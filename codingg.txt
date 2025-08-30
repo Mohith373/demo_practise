@@ -7,3 +7,4 @@
 6)git diff command will displays the changes made by the file after adding new data only when before in stagin area that is not staged 
 7)git diff works only when not in staging area i.e changing code and not do to staging area 
 8)git diff --staged used to 
+9)removing git file
