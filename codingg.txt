@@ -25,3 +25,6 @@ echo used to create a readme file with data inside double quotes
 cat readme shows data inside readme file cat is a command
 ls shows all files
 ls -a shows all .git including all 
+
+
+git remote add origin url of your github repo-->this is used to install remote to our github repository
