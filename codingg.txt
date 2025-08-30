@@ -20,3 +20,8 @@ git branch -M main
 git remote add origin https://github.com/Mohith373/demo_practise.git
 git push -u origin main
 follow the above steps to push your code from local machine to remote machine in your terminal using mkdir and cd to that directory
+
+echo used to create a readme file with data inside double quotes 
+cat readme shows data inside readme file cat is a command
+ls shows all files
+ls -a shows all .git including all 
