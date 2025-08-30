@@ -11,3 +11,12 @@
 it means first untrack your file using git rm --cached filename and then you willl be able to delte directly from files in projrxt or folder 
 cloning a folder or project from github-->
 git clone <paste the url of that project>
+
+echo "# demo_practise" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Mohith373/demo_practise.git
+git push -u origin main
+follow the above steps to push your code from local machine to remote machine in your terminal using mkdir and cd to that directory
