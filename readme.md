@@ -8,3 +8,5 @@ mostly use only main branch by creating your own
 next see what is git pull and also merge branch of some branch
 
 we can create different branches as you want but mainly focus on main branch only 
+
+this git usage is different for cloned repos because git commands are used to be differently inside any cloned repos
